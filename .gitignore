@@ -1,0 +1,21 @@
+# Ambientes locais
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Configurações e segredos locais
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Pacotes e cópias compactadas locais
+*.rar
+*.zip
+*.7z
+
+# Saídas temporárias
+*.log
+tmp/
+temp/
